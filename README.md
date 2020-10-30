@@ -1,4 +1,4 @@
-# Hi, I´m Diogo Nogueira 👋🏻
+# Hi, I'm Diogo Nogueira 👋🏻
 
 I'm a Software Developer and a lover of **UX/UI Design**. I'm from Portugal and currently studying at the School of Engineering at the University of Minho.
 
