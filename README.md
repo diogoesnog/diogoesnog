@@ -13,6 +13,7 @@ I'm a Software Developer and a lover of **UX/UI and Graphic Design**. I'm from P
 
 ### :card_index_dividers: Projects
 
-- **[ISN (Informatics Social Network)](https://github.com/diogoesnog/ISN)**: Social Network for Informatics Engineer Students of University of Minho
-- **[Mantis](https://github.com/diogoesnog/Mantis)**: Equivalence Management System for the IT Department of University of Minho
-- **[BookyMe](https://github.com/diogoesnog/BookyMe)**: Universal Booking Application for Establishments and Users
+- **[ISN (Informatics Social Network)](https://github.com/diogoesnog/ISN)**: Social Network for Informatics Engineer Students of University of Minho **(UI/UX Designer & Front End Developer)**
+- **[Mantis](https://github.com/diogoesnog/Mantis)**: Equivalence Management System for the IT Department of University of Minho **(UI/UX Designer & Front End Developer)**
+- **[BookyMe](https://github.com/diogoesnog/BookyMe)**: Universal Booking Application for Establishments and Users **(Team Leader, UI/UX Designer & Front End Developer)**
+
