@@ -1,6 +1,6 @@
 # Hi, I'm Diogo Nogueira 👋🏻
 
-I'm a Software Developer and a lover of **UX/UI and Graphic Design**. I'm from Portugal and currently studying at the School of Engineering at the University of Minho.
+I'm a Software Developer and a lover of **UX/UI and Graphic Design**. I'm from Portugal and currently working at Accenture as a Salesforce Developer.
 
 ### :gear: Technologies and Tools
 
