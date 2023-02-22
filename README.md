@@ -8,8 +8,7 @@ I'm a Software Developer and a lover of UX/UI and Graphic Design. I'm from Portu
 
 
 ### :chart_with_downwards_trend: Statistics
-![](https://github-readme-stats.vercel.app/api?username=diogoesnog&show_icons=true&theme=graywhite)
-
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=diogoesnog&show_icons=true&theme=graywhite)
 
 ### :card_index_dividers: Projects
 
